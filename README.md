@@ -1,2 +1,2 @@
-# mvc1
-codigos para a criação de um mvc simples para controle de uma livraria.
+#Projeto Crud Simples em PHP - Modo MVC
+
